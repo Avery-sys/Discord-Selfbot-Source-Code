@@ -1,2 +1,5 @@
-# Discord-Selfbot-Source-Code
-Open Source Selfbot
+This source does not come with commands!
+
+This is just a base code..
+
+Enjoy!
